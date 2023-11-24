@@ -1,9 +1,3 @@
-3-show_your_bash_pid_made_easy
-/*
- * File: 102-zombie.c
- * Auth: Brennan D Baraban
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
